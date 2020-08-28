@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Codeclimate: [![Maintainability](https://api.codeclimate.com/v1/badges/14b3ad2a104831634f9b/maintainability)](https://codeclimate.com/github/vascmig/tutorial_rails_101/maintainability)
+
+Travis: [![Build Status](https://travis-ci.com/vascmig/tutorial_rails_101.svg?branch=master)](https://travis-ci.com/vascmig/tutorial_rails_101)

@@ -11,5 +11,6 @@ before_script:
 
 script:
  - bundle update --bundler
+ - bundle exec rails webpacker:compile
  - bundle exec rake db:migrate
  - bundle exec rspec spec

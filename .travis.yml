@@ -17,3 +17,4 @@ script:
  - bundle update --bundler
  - bundle exec rake db:migrate
  - bundle exec rspec spec
+ - bundle exec cucumber
